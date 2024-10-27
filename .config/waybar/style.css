@@ -68,7 +68,7 @@ button:hover {
 }
 
 #workspaces button.urgent {
-    background-color: @peach;
+    color: @peach;
 }
 
 #workspaces button.urgent label {
@@ -129,7 +129,7 @@ button:hover {
 
 /* Using steps() instead of linear as a timing function to limit cpu usage */
 #battery.critical:not(.charging) {
-    background-color: @red;
+    color: @red;
 }
 
 #power-profiles-daemon {
