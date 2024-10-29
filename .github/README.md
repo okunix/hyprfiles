@@ -7,4 +7,4 @@ issues:
 - wmenu-run blurry when launches
 - setup wofi-drun
 - minecraft-launcher is floating on startup
-- config files are messy in both hyprland and waybar
+- config files are messy in and waybar
