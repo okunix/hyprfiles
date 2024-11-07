@@ -72,7 +72,7 @@ button:hover {
 }
 
 #workspaces button.urgent label {
-	color: @crust;
+	color: @peach;
 }
 
 #clock,
