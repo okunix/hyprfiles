@@ -8,8 +8,7 @@
 }
 
 window#waybar {
-	background-color: shade(rgba(17, 17, 27, 0.65), 1);
-
+	background-color: shade(rgba(16, 20, 33, 0.65), 1);
     transition-property: background-color;
     transition-duration: .5s;
 }
