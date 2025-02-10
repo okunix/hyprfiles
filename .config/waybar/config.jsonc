@@ -6,12 +6,7 @@
   // "width": 1280, // Waybar width
   "spacing": 2, // Gaps between modules (4px)
   // Choose the order of the modules
-  "modules-left": [
-    "hyprland/workspaces",
-    "hyprland/mode",
-    "custom/media",
-    "hyprland/window",
-  ],
+  "modules-left": ["hyprland/workspaces", "hyprland/mode", "custom/media"],
   "modules-center": [],
   "modules-right": [
     "hyprland/language",
@@ -19,9 +14,9 @@
     "network",
     "power-profiles-daemon",
     "backlight",
-    "clock",
     "battery",
     "battery#bat2",
+    "clock",
   ],
   "hyprland/language": {
     "format": "󰗊 {short}",

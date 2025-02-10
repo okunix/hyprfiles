@@ -46,7 +46,7 @@ button:hover {
 #workspaces button {
     padding: 0 2px;
     background-color: transparent;
-    border: 1px solid #101421;
+    /*    border: 1px solid #101421;*/
 }
 
 #workspaces button.active {
