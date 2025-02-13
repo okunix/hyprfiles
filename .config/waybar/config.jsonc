@@ -13,7 +13,6 @@
     "pulseaudio",
     "network",
     "power-profiles-daemon",
-    "backlight",
     "battery",
     "battery#bat2",
     "clock",
