@@ -12,7 +12,7 @@ window {
 #input {
   margin: 15px;
   margin-bottom: 0px;
-  border: 1px #a47de9;
+  border: 3px #a47de9;
   border-style: solid;
   border-radius: 0px;
   background-color: #151926;
@@ -21,7 +21,7 @@ window {
 }
 
 #outer-box {
-  border: 1px #a47de9;
+  border: 3px #a47de9;
   border-style: solid;
   border-radius: 0px;
   background-color: #101421;
