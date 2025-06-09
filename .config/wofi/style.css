@@ -12,19 +12,19 @@ window {
 #input {
   margin: 15px;
   margin-bottom: 0px;
-  border: 3px #a47de9;
+  border: 0px #111;
   border-style: solid;
   border-radius: 0px;
-  background-color: #151926;
-  color: #e5e9f0;
-  outline-color: #a47de9;
+  background-color: #111;
+  color: #e5d9f0;
+  outline: none !important;
 }
 
 #outer-box {
-  border: 3px #a47de9;
+  border: 0px #000;
   border-style: solid;
   border-radius: 0px;
-  background-color: #101421;
+  background-color: #000;
 }
 
 #inner-box {
