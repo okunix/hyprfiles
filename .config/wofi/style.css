@@ -1,12 +1,12 @@
 * {
   font-family: "FiraCode Nerd Font", monospace;
-  border-radius: 0px;
+  border-radius: 10px;
   transition: none !important;
 }
 
 window {
   background-color: rgba(0, 0, 0, 0);
-  border-radius: 0px;
+  border-radius: 10px;
 }
 
 #input {
@@ -14,8 +14,8 @@ window {
   margin-bottom: 0px;
   border: 0px #111;
   border-style: solid;
-  border-radius: 0px;
-  background-color: #111;
+  border-radius: 10px;
+  background-color: #151515;
   color: #e5d9f0;
   outline: none !important;
 }
@@ -23,8 +23,8 @@ window {
 #outer-box {
   border: 0px #000;
   border-style: solid;
-  border-radius: 0px;
-  background-color: #000;
+  border-radius: 10px;
+  background-color: #111;
 }
 
 #inner-box {
@@ -41,5 +41,5 @@ window {
 }
 
 #entry:selected {
-  background-color: #121212;
+  background-color: #202020;
 }
