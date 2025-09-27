@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wmenu -f 'JetBrains Mono Nerd Font 12' -N '161722' -n 'c0caf5' -S 'c0caf5' -s '161722' -M 'c0caf5' -m '161722' "$@"
+# wofi -d "$@"
