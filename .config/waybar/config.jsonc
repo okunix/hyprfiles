@@ -26,6 +26,7 @@
   },
   "clock": {
     "format": "{:%Y-%m-%d %a %H:%M}",
+    "tooltip": false,
   },
   "battery": {
     "states": {
@@ -46,6 +47,7 @@
     "format-wifi": "WIFI: {essid}",
     "format-ethernet": "ETH: ok",
     "format-disconnected": "INET: DOWN",
+    "tooltip": false,
   },
   "pulseaudio": {
     // "scroll-step": 1, // %, can be a float
@@ -56,5 +58,6 @@
     "format-source": "MIC: {volume}%",
     "format-source-muted": "MIC: muted",
     "on-click": "pavucontrol",
+    "tooltip": false,
   },
 }
