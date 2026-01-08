@@ -11,7 +11,7 @@
 
 window#waybar {
   background-color: @bg;
-  border-bottom: 2px @text solid;
+  /*border-bottom: 2px @text solid;*/
 }
 
 window#waybar.hidden {
