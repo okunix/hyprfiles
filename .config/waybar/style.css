@@ -1,8 +1,7 @@
 @define-color red #eb4129;
 @define-color yellow #f9e2af;
 @define-color text #c0caf5;
-@define-color bg rgba(26, 27, 38, 0.9);
-/* #161722;*/
+@define-color bg #15161e;
 
 * {
   color: @text;
@@ -12,6 +11,7 @@
 
 window#waybar {
   background-color: @bg;
+  border-bottom: 2px @text solid;
 }
 
 window#waybar.hidden {
