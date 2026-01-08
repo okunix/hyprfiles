@@ -1,4 +1,4 @@
 #!/bin/bash
 
 pkill wmenu
-wmenu -f 'JetBrains Mono Nerd Font 10' -N '15161e' -n 'c0caf5' -S 'c0caf5' -s '15161e' -M 'c0caf5' -m '15161e' "$@"
+wmenu -f 'JetBrains Mono Nerd Font 11' -N '15161e' -n 'c0caf5' -S 'c0caf5' -s '15161e' -M 'c0caf5' -m '15161e' "$@"
